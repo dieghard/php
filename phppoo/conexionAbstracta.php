@@ -1,6 +1,6 @@
 <?php
 
-abstract class DBAbstractModel {
+abstract class DBConexionModel {
     private static $db_host = 'localhost';
     private static $db_user = 'usuario';
     private static $db_pass = 'contraseña';
